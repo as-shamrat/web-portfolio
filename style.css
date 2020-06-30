@@ -1,0 +1,18 @@
+body{
+    font-family: 'MuseoModerno', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: orange;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half_width img{
+    width: 100%;
+}
